@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="derry">Derry</string>
+    <string name="ket"> 4144 - Derry Jatnika </string>
+    <string name="ket2"> This is not your username or pin. This name will be visible to your WhatsApp content</string>
+    <string name="nohp"> +85726567333 </string>
+    <string name="ket3">Last seen 30/08/2016</string>
+    <string name="ket4">Status and phone</string>
+</resources>
